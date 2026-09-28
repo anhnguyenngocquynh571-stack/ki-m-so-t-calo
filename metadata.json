@@ -1,0 +1,6 @@
+{
+  "name": "CaloTrack - Kiểm Soát Calo Hàng Ngày",
+  "description": "Ứng dụng kiểm soát lượng calo, chất dinh dưỡng đa lượng, nước uống và vận động trong ngày chuẩn khoa học dành cho người Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
